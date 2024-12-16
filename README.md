@@ -1,5 +1,23 @@
 # 💫 About Me:
-🎯 I’m currently working as a software developer intern at Hyphenova, where I’m developing RESTful APIs, optimizing user interfaces, and enhancing data accessibility features. In parallel, I’m also working on enhancing an AI-driven platform called AgentPals [AgentPals](https://www.agentpals.com)  that streamlines real estate transactions by automating document analysis and providing insightful data to real estate agents. This involves refining the backend with FastAPI, optimizing AI models, and deploying improvements on AWS.
+🎯 I’m currently working as a software developer intern at Hyphenova, where I’m developing RESTful APIs, optimizing user interfaces, and enhancing data accessibility features. Also I am Graduate Computer Science student at Drexel University with proven expertise in software development and a strong foundation in full-stack development and emerging technologies. Passionate about building scalable applications and exploring innovative solutions in AI and cloud computing.
+My technical journey spans across three countries, where I've contributed to diverse projects ranging from real-time chat applications to AI-powered platforms. I bring hands-on experience in:
+
+->Software development with focus on scalable, efficient solutions
+->Full-stack development using modern frameworks (React, FastAPI, Node.js)
+->Database architecture and optimization (PostgreSQL, MongoDB)
+->Cloud infrastructure and DevOps practices (AWS, Oracle Cloud)
+->AI/ML integration and large language models
+
+Currently focused on expanding my expertise in software engineering, artificial intelligence, and cloud computing while pursuing my Master's degree. I thrive in collaborative environments and am always eager to tackle complex technical challenges that drive innovation.
+I'm particularly interested in opportunities where I can leverage my software development expertise, international experience, and technical skills to create impactful solutions. Open to connecting with fellow technologists, innovators, and potential collaborators.
+Skills Highlight:
+🔹 Software Development
+🔹 Full-Stack Development
+🔹 Cloud Architecture
+🔹 AI/ML Integration
+🔹 Database Optimization
+🔹 API Development
+Feel free to reach out for collaborations or discussions about software development, technology, innovation, and engineering best practices!
 
 
 ## 🌐 Socials:
